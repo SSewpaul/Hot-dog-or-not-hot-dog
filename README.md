@@ -6,4 +6,4 @@ This current implementation does not provide the most accurate solution. Possibl
   - Too high or too low of a learning rate
   - Insufficient amount of layers
 
-Feel free to make use of the code and edit it.
+Feel free to make use of the code and edit it so as to make it more efficient.
